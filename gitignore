@@ -1,0 +1,22 @@
+# Ignore datasets and models (hosted externally)
+Dataset/
+model/
+SelectedImages/
+
+# Ignore Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Ignore temporary/test images
+testImages/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Environment or system files
+*.env
+*.DS_Store
+
+# Ignore HTML/Docs (if not needed)
+*.html
+*.docx

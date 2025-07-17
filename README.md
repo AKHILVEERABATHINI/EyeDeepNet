@@ -48,7 +48,7 @@ Or double-click `run.bat` on Windows.
 - Unzip and place the under: `model/` 
 
 ### 💾 SelectedImages Files (Zipped)
-- Download ZIP: [Google Drive - Model Files](https://drive.google.com/file/d/1gqWJfBiVSyrxPM1e8LHS7lAnJJKNEqAG/view?usp=sharing)
+- Download ZIP: [Google Drive - SelectedImages Files](https://drive.google.com/file/d/1gqWJfBiVSyrxPM1e8LHS7lAnJJKNEqAG/view?usp=sharing)
 - Unzip and place the under: `SelectedImages/`
 
 ---
